@@ -12,7 +12,4 @@ public class HelloWorld {
         
         System.out.println("Nice to meet you "+name+"!");
     }
-
-    
-
 }
